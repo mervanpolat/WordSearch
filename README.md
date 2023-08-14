@@ -1,13 +1,12 @@
 # WordSearch
 
-Welcome to WordSearch app! I built this application because I'm fascinated by Java's multithreading feature, and I wanted to create an app which efficiently searches for a specific word from a given text and calculates its occurence. The default text is 'War and Peace' by Leo Tolstoy. You're free to change the text source as you wish. 
+Welcome to the WordSearch app! This application was developed out of my passion for Java's multithreading capabilities. It efficiently searches for specific words within a given text and calculates their occurrences. By default, the application uses 'War and Peace' by Leo Tolstoy as its text source, but users have the freedom to change this as desired. 
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+Pull requests are always appreciated. If you're considering major changes, kindly open an issue first. This ensures we can discuss and align on any adjustments before you proceed.
 
-Please make sure to update tests as appropriate.
+Don't forget to update the tests in line with your contributions.
 
 ## License
 
